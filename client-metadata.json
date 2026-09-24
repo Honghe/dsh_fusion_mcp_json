@@ -1,6 +1,7 @@
 {
   "client_id": "https://honghe.github.io/dsh_fusion_mcp_json/client-metadata.json",
   "client_name": "dsh fusion mcp",
+  "client_uri": "https://honghe.github.io/dsh_fusion_mcp_json/",
   "application_type": "native",
   "grant_types": ["authorization_code", "refresh_token"],
   "response_types": ["code"],
